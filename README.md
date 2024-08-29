@@ -13,7 +13,7 @@ pip install black isort
 pip freeze > requirements.txt
 ```
 
-- 패키지 재설치 ( requirements.txt가 있을 경우)
+- 패키지 재설치 (requirements.txt가 있을 경우)
 ```she11
 pip install -r requirements.txt
 ```
